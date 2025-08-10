@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - name: Update and Deploy
-       uses: applyboy/ssh-action@v1.2.1
+       uses: appleboy/ssh-action@master
        with:
          host: 52.226.76.227
          username: Imole
