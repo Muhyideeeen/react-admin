@@ -3,7 +3,7 @@ name: Deploy React app to Ubuntu
 on:
   push:
     branches:
-      - main
+      - mained
 jobs:
   deploy:
     name: Deploy to Server
