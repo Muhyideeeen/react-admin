@@ -22,8 +22,8 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SERVER_PORT || 22 }}
           script: |
-            cd /path/to/your/app
-            git pull origin dev
+            cd /var/www/react-admin
+            git pull
             npm install
             npm run build
-            pm2 restart your-app-name
+            pm2 restart 1
