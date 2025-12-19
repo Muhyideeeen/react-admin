@@ -22,9 +22,9 @@ const Home = () => {
             <div className="homeContainer">
                 <Navbar />
                 <div className="widgets">
-                    <Widgets type="users" />
+                    <Widgets type="one" />
                     <Widgets type="order" />
-                    <Widgets type="earnings" />
+                    <Widgets type="three" />
                     <Widgets type="balance" />
                 </div>
                 <div className="charts">
