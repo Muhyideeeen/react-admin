@@ -44,7 +44,7 @@ export const userColumns = [
       id: 1,
       username: "Muhyideen",
       img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      status: "active",
+      status: "passive",
       email: "md@gmail.com",
       age: 25,
     },
