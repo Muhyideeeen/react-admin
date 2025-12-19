@@ -42,7 +42,7 @@ export const userColumns = [
   export const userRows = [
     {
       id: 1,
-      username: "Muhyideen",
+      username: "ZeeCloud",
       img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       status: "passive",
       email: "md@gmail.com",
@@ -50,7 +50,7 @@ export const userColumns = [
     },
     {
       id: 2,
-      username: "Keenah",
+      username: "Muhandis",
       img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "keenah@gmail.com",
       status: "passive",
@@ -58,7 +58,7 @@ export const userColumns = [
     },
     {
       id: 3,
-      username: "Lannister",
+      username: "Army",
       img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "3snow@gmail.com",
       status: "pending",
@@ -66,7 +66,7 @@ export const userColumns = [
     },
     {
       id: 4,
-      username: "Stark",
+      username: "DoveShewa",
       img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "4snow@gmail.com",
       status: "active",
@@ -74,7 +74,7 @@ export const userColumns = [
     },
     {
       id: 5,
-      username: "Targaryen",
+      username: "Jamsam",
       img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "5snow@gmail.com",
       status: "passive",
